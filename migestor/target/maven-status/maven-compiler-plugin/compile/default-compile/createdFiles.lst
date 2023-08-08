@@ -1,0 +1,8 @@
+com\gestorapp\migestor\dto\UserDto.class
+com\gestorapp\migestor\repository\UserRepository.class
+com\gestorapp\migestor\serviceImpl\UserServiceImpl.class
+com\gestorapp\migestor\MigestorApplication.class
+com\gestorapp\migestor\controller\UserController.class
+com\gestorapp\migestor\service\UserService.class
+com\gestorapp\migestor\entity\UserEntity.class
+com\gestorapp\migestor\entity\QUserEntity.class
